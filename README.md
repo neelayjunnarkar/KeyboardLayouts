@@ -5,8 +5,8 @@
 	*(Right-Alt (AltGR))/(Ctrl-Alt) enable different set of symbols
 	*(Shift Right-Alt (AltGR))/(Shift-Ctrl-Alt) enable different set of symbols
 	*This keyboard enables:
-		**Accents: acute and tilde
-		**Various mathematical symbols
+		*Accents: acute and tilde
+		*Various mathematical symbols
 ##Installation:
 	1. Unzip the zip file of the desired keyboard layout
 	2. Run setup (this will require Admin privileges)
